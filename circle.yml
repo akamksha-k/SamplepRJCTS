@@ -1,0 +1,4 @@
+notify:
+  webhooks:
+    #page_build #create #delete
+    - url: https://procuat.cognizant.com/CCIAPI/api/values
